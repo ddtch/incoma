@@ -3,7 +3,7 @@ import {BehaviorSubject} from 'rxjs';
 import {HttpClient} from '@angular/common/http';
 import {VideoModel} from '../models/video';
 
-const youTubeGoogleAPIKey = 'AIzaSyCh_i_ww20TD9JOdJRLbG3qiEzEEpewGmo';
+const youTubeGoogleAPIKey = 'apiKeyPointHere';
 const chanelId = 'UC-2Y8dQb0S6DtpxNgAKoJKA';
 const apiUrl = 'https://www.googleapis.com/youtube/v3';
 
